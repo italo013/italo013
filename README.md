@@ -2,7 +2,7 @@
   <h1 align="justify">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/italo013/">Italo Igor</a> 😃️</h1>
 <p>Atuário (MIBA nº 3264), com bacharelado pela Universidade Federal da Paraíba - UFPB. <br>
   Quaseeee... finalizando uma pós graduação em MBA – Business Inteligence com Big Data pela UNIPÊ, faltando só a defesa do projeto final. <br>
-  E atualmente fazendo um curso em Data Science e Machine Learning pela DNC Group, visando a migrar para carreira de Cientista de Dados.</p><br>
+  E atualmente fazendo um curso em Data Science e Machine Learning pela DNC Group, visando a migrar para a carreira de Cientista de Dados.</p><br>
 
 <div align="center">
   <a href="https://www.instagram.com/italo.igor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
